@@ -7,7 +7,7 @@ while True:
     x +=1
     print(y)
     if                                              :
-    #enter equation above with x*2 instead of x2 and / for division (for example), == instead of =
+    #enter equation above with x*2 instead of x2 and / for division (for example), and == instead of =
     #why would you need to do that? couldn't code easily do that? Me: ........... *punches in face* 
         print('solved!')
         sleep(1)
