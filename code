@@ -1,0 +1,25 @@
+from time import sleep
+t = 0
+x = -100
+y = -100
+while True:
+    t+=1
+    x +=1
+    print(y)
+    if                                              :
+    #enter equation above with x*2 instead of x2 and / for division (for example), == instead of =
+    #why would you need to do that? couldn't code easily do that? Me: ........... *punches in face* 
+        print('solved!')
+        sleep(1)
+        print('ran for '+str(t)+' times you fucking tryhard')
+        sleep(1)
+        print('x: '+str(x))
+        print('y: '+str(y))
+        sleep(0.3)
+        print('CatCat55 Studios is not responsible for any lazy fucks that use this to do their hw ;D')
+        break
+    elif x > 100:
+        y +=1
+        x = 0
+    elif y > 1000:
+        print('no solution or you just didnt set the upper limit high enough')
